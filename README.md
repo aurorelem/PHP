@@ -1,5 +1,3 @@
-# php-training
-
 # PHP Introduction
 
 Introduction to PHP language.
